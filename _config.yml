@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
-title: Chen Po Wang
+theme: jekyll-theme-minimal
+title: 2022 Wang Chen Po
+logo: images/logo.png
+description: Apps of 2022 Wang Chen Po.
+show_downloads: true
