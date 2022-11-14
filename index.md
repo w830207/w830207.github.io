@@ -1,6 +1,6 @@
 ## [Cyber M3u8](apps/m3u8.md)
 
-<a href="apps/m3u8.md"><img decoding="async" src="images/m3u8.webp" width="24%">
+[<img decoding="async" src="images/m3u8.webp" width="24%">](apps/m3u8.md)
 
 [PRIVACY POLICY](privacy_policies/m3u8.md)
 
@@ -13,7 +13,7 @@ CyberPunk style M3u8 player.
 ----
 ## [浪愛](apps/lang.md)
 
-<a href="apps/lang.md"><img decoding="async" src="images/lang.png" width="24%">
+[<img decoding="async" src="images/lang.png" width="24%">](apps/lang.md)
 
 [PRIVACY POLICY](https://www.privacypolicies.com/live/1c4d9d11-8448-489e-9973-280aa8503a4f)
 
